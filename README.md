@@ -11,3 +11,4 @@ representation of audio signal.
 * Numpy
 * Librosa
 * Keras
+# This is not a full code. This is a research project, wait for rest of code.
