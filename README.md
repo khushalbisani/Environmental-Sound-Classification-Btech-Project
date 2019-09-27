@@ -5,6 +5,7 @@ UrbanSound8K[8] is a well known dataset  which contains recordings of total 27 h
 * Pandas
 * Numpy
 * Librosa
+* nlpaug
 * Keras
 
 # This is not a full code. This is a research project, wait for rest of code.
